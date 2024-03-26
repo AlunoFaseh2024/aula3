@@ -1,0 +1,11 @@
+Entidades, bibliotecas: org.*
+Identificador do usuário, coluna única, ex: col. email.
+Cria ID de usuário, mais um identificador.
+Nome de usuário, emaul, ID, senha. 
+
+Nullable> : não pode ser vazio.
+Boolean> : se é verdadeiro ou falso.
+
+Requisito_1: sistema  de cadastro com nome, email, senha e id.
+
+Criação de padrão para tudo o que for feito, documentar padrão.
